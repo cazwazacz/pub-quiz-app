@@ -2,7 +2,7 @@
 
 ## QuizLife! is an app which allows you to create quizzes and play them live with your friends!
 
-### It is live [here](http://www.fearless-tomatoes.surge.sh).
+### It is live [here](http://www.quiz-life.surge.sh).
 ---
 
 This is the front-end interface for our [node.JS API backened](https://www.github.com/cazwazacz/pub-quiz-api).
