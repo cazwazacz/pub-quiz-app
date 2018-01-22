@@ -9,7 +9,7 @@ Creating a quiz:
 Playing with friends:
 ![img](/img/gameplay.png)
 
-This is the front-end interface for our [node.JS API backened](https://www.github.com/cazwazacz/pub-quiz-api).
+This is the front-end interface for our [node.JS API back-end](https://www.github.com/cazwazacz/pub-quiz-api).
 
 To run the app locally:
 ```bash
