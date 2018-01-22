@@ -12,17 +12,19 @@ Playing with friends:
 This is the front-end interface for our [node.JS API back-end](https://www.github.com/cazwazacz/pub-quiz-api).
 
 To run the app locally:
-```bash
-$ git clone https://github.com/Vanals/Pub_Quiz_FInalProject.git
-$ cd Pub_Quiz_FInalProject
+```
+$ git clone https://github.com/cazwazacz/pub-quiz-app.git
+$ cd pub-quiz-app
 $ npm install
 $ npm start
 ```
 Visit http://localhost:3000/.
 
 To run tests:
-```bash
+```
 $ npm test
 ```
+### Credits
+---
 
-This project was done by [Allan Wazacz](https://www.github.com/cazwazacz/), [Antonio Belmar da Costa](https://github.com/antoniobelmar/), [Marco Vanali](https://github.com/Vanals/) & [Theo Breuer-Weil](https://www.github.com/somemarsupials/).
+This project was done by [Allan Wazacz](https://www.github.com/cazwazacz/), [Antonio Belmar da Costa](https://github.com/antoniobelmar/), [Marco Vanali](https://github.com/Vanals/), [Marie Kerkstoel](https://github.com/mariekerkstoel/) & [Theo Breuer-Weil](https://www.github.com/somemarsupials/).
