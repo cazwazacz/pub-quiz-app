@@ -29,6 +29,7 @@ $ npm test
 ### Technology
 ---
 *These are the technologies which were used in both the front and back-end*
+
 Tech | Where? | What it does
 --- | --- | ---
 mongoDB | Database | Stores all our quizzes and questions
