@@ -6,7 +6,6 @@ import QuestionContainer from './questions/QuestionContainer';
 import ToggleDisplay from 'react-toggle-display';
 import client from '../../lib/wsClient';
 import axios from 'axios';
-import './Quiz.css'
 
 // const URL = 'localhost:5000'
 const URL = 'pub-quiz-api.herokuapp.com'
