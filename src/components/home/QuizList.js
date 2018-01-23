@@ -6,7 +6,7 @@ class QuizList extends Component {
       <div>
         {this.props.quizzes.map((quiz, index) => {
           return(
-            <div key={index}>
+            <div class="each-quiz" key={index}>
               <a href={'/quiz/' + quiz.id}>
                 <button
                   className='quiz-name-button'>

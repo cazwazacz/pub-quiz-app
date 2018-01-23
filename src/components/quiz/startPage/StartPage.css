@@ -3,6 +3,11 @@
   src: url('../../../DK Crayon Crumble.ttf');
 }
 
+.each-quiz {
+  display: inline-block;
+  width: 100%;
+}
+
 .create-quiz-button {
   margin: 0;
 }
